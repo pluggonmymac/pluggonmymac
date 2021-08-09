@@ -1,4 +1,4 @@
-- 👋 iOS is love. Swift is life
+- iOS is love. Swift is life
 - try hard or go cry.
 
 <!---
